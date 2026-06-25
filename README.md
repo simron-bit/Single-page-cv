@@ -16,6 +16,6 @@ A single page CV created using HTML only.
 
 One can also copy paste the HTML code on a code editor like VS code, save and then open the html file in your default browser.
 
-## Project page URL:
+## Project page URL;
 https://roadmap.sh/projects/single-page-cv
 
