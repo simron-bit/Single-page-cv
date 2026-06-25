@@ -13,6 +13,7 @@ A single page CV created using HTML only.
 
 1. Download or clone the given repository
 2. Click on the 'index.html' file
+
 One can also copy paste the HTML code on a code editor like VS code, save and then open the html file in your default browser.
 
 ## Project page URL
